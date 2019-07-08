@@ -1,0 +1,23 @@
+/*
+ * File: /Users/tonymedrano/Desktop/custom-elems/index.css
+ * Project: /Users/tonymedrano/Desktop/custom-elems
+ * Created Date: Monday July 8th 2019
+ * Author: tonymedrano
+ * -----
+ * Last Modified:
+ * Modified By:
+ * -----
+ * Copyright (c) 2019 Custom Elems App
+ */
+
+
+html,
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+/*     border: 2px dashed red; */
+    background: #eeeeee;
+}
